@@ -4,7 +4,7 @@ from gtts import gTTS
 import os
 import tempfile
 
-openai.api_key = " sk-None-P8uWUroLtgLZ4iP9O70dT3BlbkFJBifrTKEFzOuxVSIT78yG"
+openai.api_key = " "
 
 # Store conversations with unique IDs
 conversations = {}
